@@ -6,13 +6,14 @@
 
 ## How to use?
 <b>Linux</b>
+Remember: You must run it with Python 3, with Python 2 you will get unsupported operating system.
 ```
 # First you need to download this script. Using this command
 $ git clone https://github.com/MrTuNNe/Spotify-AdBlocker.git
 # Then go into the folder
 $ cd Spotify-AdBlocker
 # And the last step
-$ sudo python spotify_adblock.py
+$ sudo python3 spotify_adblock.py
 ```
 <b>Windows</b>
 ```
